@@ -45,7 +45,7 @@ class FollowObject(Node):
 
         self.vehicle_detected = False
         for _, detection in detections.iterrows():
-            if detection['class'] == 2 and detection['confidence'] > 0.50:
+            if (detection['class'] == 2 or detection['class'] == 0) and (detection['confidence'] > 0.50):
                 self.vehicle_detected = True
                 break 
 
