@@ -1,6 +1,6 @@
 
 """
-Generate hapmap for the model
+Generate heatmap for the model
 
 """
 
