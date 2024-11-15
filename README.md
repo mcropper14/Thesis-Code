@@ -55,4 +55,3 @@ The **Setup** folder includes a Docker container with all required dependencies 
 ```bash
 ./run_docker.sh
 
-TODO: ADD LINK TO PAPER
