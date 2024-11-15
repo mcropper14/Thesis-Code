@@ -15,7 +15,7 @@ This repository is organized into several key folders, each of which holds the c
 - **LaneDetection**: Implements the lane detection algorithms discussed in the paper.
   - `CNN/`: Contains scripts for Convolutional Neural Network models used in lane detection.
     - `cnn_no_lstm.py`: CNN model without LSTM for lane detection.
-    - `efficient.py`: EfficientNet-based model implementation for lane detection.
+    - `efficient.py`: EfficientNet-based model with LSTM implementation for lane detection.
     - `feature_map.py`: Generates feature maps for visualizing lane boundaries.
     - `heat_map.py`: Creates heat maps for lane region visualization.
   - `RobotCode/`: Includes code for integrating lane detection with robot control. These are scripts that must be ran on the robot.
@@ -42,7 +42,7 @@ This repository is organized into several key folders, each of which holds the c
   - `Robot2.py`: Script for V2V communication and control for vehicle 2.
 
 - **VehicleDetection**: Contains the code for vehicle detection, using sensor input to identify and track other vehicles.
-  - `detect_lidar_follow.py`: Detects vehicles using LiDAR data and enables following behavior.
+  - `detect_lidar_follow.py`: Detects vehicles using LiDAR data and enables the following behavior.
   - `detect.py`: Vehicle detection script based on image and sensor data.
   - `lidar_follow.py`: Implements following behavior based on LiDAR-detected vehicles.
 
