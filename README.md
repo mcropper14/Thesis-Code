@@ -2,7 +2,7 @@
 
 # Multi-Sensor Fusion and V2V Communication in Autonomous Vehicles: A Comprehensive Framework for Self-Driving
 
-Welcome to the code repository accompanying the paper *Multi-Sensor Fusion and V2V Communication in Autonomous Vehicles: A Comprehensive Framework for Self-Driving*. This repository provides the code and configuration necessary to replicate and extend the experiments, simulations, and system setup described in the paper. It includes various folders that directly correspond to sections within the research paper, each representing distinct components of our proposed autonomous vehicle framework.
+Welcome to the code repository accompanying the paper *Multi-Sensor Fusion and V2V Communication in Autonomous Vehicles: A Comprehensive Framework for Self-Driving*. This repository provides the code and configuration necessary to replicate results, figures, and system setup described in the paper. It includes various folders that directly correspond to sections within the research paper, each representing distinct components of our proposed autonomous vehicle framework.
 
 ## System Overview
 
