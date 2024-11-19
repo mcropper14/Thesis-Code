@@ -39,7 +39,7 @@ This repository is organized into several key folders, each of which holds the c
 
 - **Vehicle-to-Vehicle**: Implements the vehicle-to-vehicle (V2V) communication protocols.
   - `Robot_1.py`: Script for V2V communication and control for vehicle 1.
-  - `Robot2.py`: Script for V2V communication and control for vehicle 2.
+  - `Robot_2.py`: Script for V2V communication and control for vehicle 2.
 
 - **VehicleDetection**: Contains the code for vehicle detection, using sensor input to identify and track other vehicles.
   - `detect_lidar_follow.py`: Detects vehicles using LiDAR data and enables the following behavior.
