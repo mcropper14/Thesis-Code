@@ -5,6 +5,9 @@
 Welcome to the code repository accompanying the paper *Multi-Sensor Fusion and V2V Communication in Autonomous Vehicles: A Comprehensive Framework for Self-Driving*. This repository provides the code and configuration necessary to replicate results, figures, and system setup described in the paper. It includes various folders that directly correspond to sections within the research paper, each representing distinct components of our proposed autonomous vehicle framework.
 Download the paper from here: [https://scholarworks.wm.edu/honorstheses/2243/]
 
+Demo: [https://youtu.be/pAVnPyNsMko]
+Presentation: [https://youtu.be/s9K2VZNC5XY]
+
 ## System Overview
 
 The robot scripts in this repository are designed to run in an Ubuntu 20.04 container on a ROSMASTER X3 robot. This configuration uses the ROS2 (Robot Operating System) middleware to handle communication between different components such as movement control, LiDAR sensing, and vehicle-to-vehicle communication.
